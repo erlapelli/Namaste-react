@@ -2,7 +2,7 @@
   "name": "react-project",
   "version": "1.0.0",
   "description": "This is react by poorna ",
-  "main": "index.js",
+  
   "scripts": {
     "start": "parcel index.html",
     "build": "parcel build index.html",
