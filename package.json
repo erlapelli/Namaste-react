@@ -2,7 +2,6 @@
   "name": "react-project",
   "version": "1.0.0",
   "description": "This is react by poorna ",
-  
   "scripts": {
     "start": "parcel index.html",
     "build": "parcel build index.html",
@@ -33,6 +32,7 @@
   "dependencies": {
     "@parcel/watcher": "^2.4.1",
     "@reduxjs/toolkit": "^2.2.7",
+    "lightningcss": "^1.25.1",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-redux": "^9.1.2",
