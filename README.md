@@ -1,3 +1,6 @@
+## 🚀 Live Demo
+
+[View Live Demo](https://namaste-react-rosy.vercel.app/)
 # Namaste React
 
 # parcel 
